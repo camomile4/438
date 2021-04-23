@@ -1,0 +1,8 @@
+.my-btn {background-color: blueviolet;
+color: cornsilk;}
+
+.my-btn:hover {
+    color: cornsilk;
+    background-color: darkcyan;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
